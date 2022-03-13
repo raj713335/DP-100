@@ -5,3 +5,7 @@ This repository contains the exercise files for the [Create machine learning mod
 ## Contributing
 
 We are not currently accepting external contributions for this repo. If you encounter any problems, please report an issue.
+
+
+## Get the original Repo Datasets From
+https://github.com/microsoftdocs/ml-basics
